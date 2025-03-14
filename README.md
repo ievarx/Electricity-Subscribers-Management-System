@@ -21,7 +21,7 @@ This repository contains the **Electricity Subscribers Management System**, a **
 #### **⚙️ How to Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/electricity-subscribers-management-system.git
+   git clone https://github.com/ievarx/electricity-subscribers-management-system.git
    ```  
 2. **Install dependencies:**  
    Run the following command to install necessary dependencies:  
